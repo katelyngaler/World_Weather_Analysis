@@ -7,7 +7,7 @@ Deliverable 1 is in the weather_database folder. [weather_database](weather_data
 
 ## Deliverable 2 - Hotel Map
 
-Deliverable 2 is in the Vacation_Search Folder. [Vacation_Search](Vacation_search) This deliverable includes a jupyter notebook file, an output csv and a map image. This deliverable used the output csv created in deliverable 1, requested input from the user for temperature preferences, to filter the data. Next we used the nearby places API to find hotels for all the cities that met the input criteria. Finally, this was plotted on a map with markers that included the city, country, weather, and hotel information.
+Deliverable 2 is in the Vacation_Search Folder. [Vacation_Search](Vacation_Search) This deliverable includes a jupyter notebook file, an output csv and a map image. This deliverable used the output csv created in deliverable 1, requested input from the user for temperature preferences, to filter the data. Next we used the nearby places API to find hotels for all the cities that met the input criteria. Finally, this was plotted on a map with markers that included the city, country, weather, and hotel information.
 
 ## Deliverable 3 - Driving Directions
 
