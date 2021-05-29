@@ -2,6 +2,8 @@ config.py
 API_practice.ipynb
 random_numbers.ipynb
 Google_Nearby_Search.ipynb
+**/config.py
+**/Vacation_choices.png
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
